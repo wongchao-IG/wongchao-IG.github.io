@@ -1,6 +1,11 @@
 {
     "title":"王同学的博客",
-    "subTitle":"我是王同学，一名菜鸟开发者",
+    "subTitle":"若无共鸣，沉默即安",
     "avatarUrl":"https://avatars.githubusercontent.com/u/63178016?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "i18n":"CN",
+    "commentLabelColor"："#006b75",
+    "style":"",
+    "script":"",
+    "needComment":0
 }
